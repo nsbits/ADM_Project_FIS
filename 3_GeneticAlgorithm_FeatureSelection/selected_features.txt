@@ -1,0 +1,10 @@
+   No of Feats                                       Chosen Feats  Scores
+7            3         [age, ejection_fraction, serum_creatinine]   0.828
+2            4  [age, anaemia, ejection_fraction, serum_creati...   0.823
+5            6  [age, creatinine_phosphokinase, ejection_fract...   0.815
+8            7  [age, creatinine_phosphokinase, ejection_fract...   0.815
+1            3         [age, ejection_fraction, serum_creatinine]   0.813
+3            5  [age, diabetes, ejection_fraction, serum_creat...   0.813
+6            8  [age, creatinine_phosphokinase, diabetes, ejec...   0.810
+4            4  [age, ejection_fraction, serum_creatinine, ser...   0.804
+0            2                            [age, serum_creatinine]   0.745
